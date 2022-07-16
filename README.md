@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Support me!
-![image](https://user-images.githubusercontent.com/19379099/179336654-2b1d6425-c3b3-4566-adfb-df73c63f4c4e.png)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 https://www.buymeacoffee.com/sobhani6
 
 
