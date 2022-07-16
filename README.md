@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani&show_icons=true&theme=radical)
 
 ![- 📫 How to reach me:]
-
-https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/k7Yv2QsOGYTsI0CIDt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-k7Yv2QsOGYTsI0CIDt">via GIPHY</a></p>
 
 
 
