@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div id="header" align="left">
-  <a href = "https://www.buymeacoffee.com/?via=sobhani6">Suport me! <br><img src="https://www.abeautifulme.com/wp-content/uploads/2017/02/ABMe-Help-Support-1.jpg" width="100"/></a>  
+  <a href = "https://buymeacoffee.com/?via=sobhani6"><img src="https://www.abeautifulme.com/wp-content/uploads/2017/02/ABMe-Help-Support-1.jpg" width="100"/></a>  
 </div>
 <hr>
 
