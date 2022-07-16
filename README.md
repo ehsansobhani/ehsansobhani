@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani&show_icons=true&theme=radical)
-![- 📫 How to reach me:]([[http://url/to/img.png](https://www.buymeacoffee.com/sobhani6](https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif)))
+![- 📫 How to reach me:]([[https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif]])
 
 
 
