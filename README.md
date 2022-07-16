@@ -4,18 +4,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Flutter mobile aplication which monitor battery status and control charging via bluetooth
+- 🌱 I’m currently learning Jakarta EE
+- 👯 I’m looking to collaborate on Java based enterprise frameworks
+- 🤔 I’m looking for help with Jakarta EE
+- 💬 Ask me about 
+- 📫 How to reach me: e.sobhani2000@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani)](https://github.com/anuraghazra/github-readme-stats)
-https://www.buymeacoffee.com/sobhani6
+![Suport me!]([http://url/to/img.png](https://www.buymeacoffee.com/sobhani6))
+
 
 
 
