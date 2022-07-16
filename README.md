@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhani)](https://github.com/anuraghazra/github-readme-stats)
 https://www.buymeacoffee.com/sobhani6
 
