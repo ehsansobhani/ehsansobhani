@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter mobile aplication which monitor battery status and control charging via bluetooth
+- 🔭 I’m currently working on machine learning, Artificial Intelligence, and Power BI projects
 - 🌱 I’m currently learning Jakarta EE
 - 👯 I’m looking to collaborate on Java based enterprise frameworks
 - 🤔 I’m looking for help with Jakarta EE
